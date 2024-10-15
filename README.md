@@ -27,12 +27,15 @@ Each functionality utilizes different pre-trained models from Hugging Face and D
    git clone https://github.com/rishurnjan/multimodel-app.git
    cd multimodel-app
 2. Create and activate new conda env
-   - conda create -n mm_env python=3.10
+   ```bash
+     conda create -n mm_env python=3.10
      conda activate mm_env
 3. Install required dependencies
-   - pip install -r requirement.txt
+   ```bash
+   pip install -r requirement.txt
 4. Run the app
-   - streamlit run app.py 
+   ```bash
+   streamlit run app.py 
 
 Usage
 Start the app using the command above.
