@@ -37,7 +37,7 @@ Each functionality utilizes different pre-trained models from Hugging Face and D
    ```bash
    streamlit run app.py 
 
-Usage
+### Usage
 Start the app using the command above.
 Use the sidebar menu to navigate between different options.
 For each task, input the required data (text prompt, image upload, etc.) and click the respective button to generate output.  
